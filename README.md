@@ -5,7 +5,7 @@ I'm Varun a Data Analyst and Data science enthusiastic. Working as a full time F
 <br><br>
 📫 Reach me out!
 <br><br>
-<img align="right" alt="Analysis" width="400" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
+<img align="right" alt="Analysis" width="350" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
 
 - 🔭 I’m currently working Freelancer as **Data Analyst and Data Visualization Specialist**
 
