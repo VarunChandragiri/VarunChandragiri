@@ -1,11 +1,12 @@
 ![image](https://user-images.githubusercontent.com/64961073/202894972-3f620760-d98c-44e0-9239-5585dae12947.png)
 <hr>
-<h1>Hi 👋, I'm VARUN CHANDRAGIRI</h1>
+<h1>Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm VARUN CHANDRAGIRI</h1>
 I'm Varun a Data Analyst and Data science enthusiastic. Working as a full time Freelancer. I spend most of the time researching and analyzing different kinds of data.
 <br><br>
 📫 Reach me out!
 <br><br>
-<img align="right" alt="Analysis" width="350" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
+
+<img align="right" alt="Analysis" width="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🔭 I’m currently working Freelancer as **Data Analyst and Data Visualization Specialist**
 
