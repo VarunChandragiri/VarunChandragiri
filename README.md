@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/64961073/202894972-3f620760-d98c-44e0-9239-5585dae12947.png)
+![Cover Image](https://user-images.githubusercontent.com/64961073/203733226-91b6e557-f37b-477b-82f1-8b4aeafebfdb.png)
+
 <hr>
 <h1>Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm VARUN CHANDRAGIRI</h1>
 I'm Varun a Data Analyst and Data science enthusiastic. Working as a full time Freelancer. I spend most of the time researching and analyzing different kinds of data.
